@@ -1,4 +1,4 @@
-#### The project from the PHP course "Learn PHP The Right Way".
+### The project from the PHP course "Learn PHP The Right Way".
 
 ---
 #### What is this project
